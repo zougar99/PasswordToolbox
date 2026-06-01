@@ -1,4 +1,4 @@
-# PasswordToolbox 🛡️
+# 🛡 PasswordToolbox 🛡️
 
 <div align="center">
 
